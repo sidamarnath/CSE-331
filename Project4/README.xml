@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<readme>
+    <!-- *********************************************************************************************************** -->
+
+    <!-- CSE 331 README (Fall 2021) -->
+
+    <!-- Thanks for filling out your README! -->
+    <!-- The purpose of this README is to collect your feedback to ensure we make CSE 331 the best it can be. -->
+    <!-- You'll receive full credit for the README as long as you fill out every field, so answer honestly! -->
+    <!-- Just replace the text REPLACE with your response and leave the <> tags alone.  -->
+    <!-- Include this file in your .zip folder uploaded to Mimir, and you're golden! -->
+
+    <!-- *********************************************************************************************************** -->
+
+    <!-- (1) Please enter your MSU netid (the part of your email before @msu.edu) below. -->
+    <netid>
+        amarnat4
+    </netid>
+
+    <!-- (2) Please enter your feedback below. How did you like the Project/CC? -->
+    <!-- What was easy? What was challenging? How could we improve it in the future? -->
+    <feedback>
+        I thought this project was very cool. At first I was very confused about the order in which to do the functions
+        as I realized that some functions involve calling other functions. Once I was able to figure it out, finishing
+        the main functions wasn't too much of an issue for me. Although I wasn't able to finish the application in time,
+        I really enjoyed the project. I found the grow function to be the most difficult in my opinion. It did not
+        include a test case, so when my insert function wasn't working, I kept thinking it was something wrong with my
+        insert function itself and not the grow function being called. Maybe for the future add a grow test case so
+        we can verify our work.
+    </feedback>
+
+    <!-- (3) Please enter how difficult this project was -->
+    <!--  0 means Easy, 10 means Rocket Science (very difficult)  -->
+    <difficulty>
+        8
+    </difficulty>
+
+    <!-- (4) Please enter approximately how long the Project/CC took you in hours (as a floating point).  -->
+    <!-- For example, if it took you 45 minutes, enter 0.75; if it took you 2 and a half hours, enter 2.5. -->
+    <time>
+        11.75
+    </time>
+
+    <!-- (5) Please cite the resources you used to complete the Project/CC. URLs are fine!  -->
+    <citations>
+        https://learn.zybooks.com/zybook/MSUCSE331OnsayFall2021/chapter/23/section/1
+        https://www.youtube.com/watch?v=ea8BRGxGmlA
+        https://www.youtube.com/watch?v=zHi5v78W1f0
+        https://www.tutorialspoint.com/python_data_structure/python_hash_table.htm
+        Onsay Lectures and Source Code
+        https://www.guru99.com/hash-table-data-structure.html
+    </citations>
+
+    <!-- *********************************************************************************************************** -->
+
+    <!-- Configured by Project/CC author. DO NOT EDIT! -->
+    <type>Project</type>    <!-- Enter "Project" or "CC" without quotes -->
+    <number>4</number>      <!-- Enter Project/CC number as integer -->
+
+    <!-- *********************************************************************************************************** -->
+
+</readme>

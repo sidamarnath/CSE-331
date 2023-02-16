@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<readme>
+    <!-- *********************************************************************************************************** -->
+
+    <!-- CSE 331 README (Fall 2021) -->
+
+    <!-- Thanks for filling out your README! -->
+    <!-- The purpose of this README is to collect your feedback to ensure we make CSE 331 the best it can be. -->
+    <!-- You'll receive full credit for the README as long as you fill out every field, so answer honestly! -->
+    <!-- Just replace the text REPLACE with your response and leave the <> tags alone.  -->
+    <!-- Include this file in your .zip folder uploaded to Mimir, and you're golden! -->
+
+    <!-- *********************************************************************************************************** -->
+
+    <!-- (1) Please enter your MSU netid (the part of your email before @msu.edu) below. -->
+    <netid>
+        amarnat4
+    </netid>
+
+    <!-- (2) Please enter your feedback below. How did you like the Project/CC? -->
+    <!-- What was easy? What was challenging? How could we improve it in the future? -->
+    <feedback>
+        I thought this project was very difficult. I feel that using DLL's and manipulating with nodes are not my
+        strong suit yet, so I think it took me a lot longer to get this project done. I thought the first few functions
+        were fairly straight forward. I struggled with the concept of reversing the DLL but eventually was able to
+        figure it out after some guidance from websites. Overall, a really fun, but painful project. I was unable to
+        complete the flurricane comprehensive test case since I couldn't figure out an error, even after debugging,
+        which made the project frustrating. 
+    </feedback>
+
+    <!-- (3) Please enter how difficult this project was -->
+    <!--  0 means Easy, 10 means Rocket Science (very difficult)  -->
+    <difficulty>
+        8
+    </difficulty>
+
+    <!-- (4) Please enter approximately how long the Project/CC took you in hours (as a floating point).  -->
+    <!-- For example, if it took you 45 minutes, enter 0.75; if it took you 2 and a half hours, enter 2.5. -->
+    <time>
+        15
+    </time>
+
+    <!-- (5) Please cite the resources you used to complete the Project/CC. URLs are fine!  -->
+    <citations>
+        https://www.geeksforgeeks.org/doubly-linked-list/
+        https://favtutor.com/blogs/doubly-linked-list-python
+        https://www.educative.io/edpresso/how-to-create-a-doubly-linked-list-in-python
+        https://stackoverflow.com/questions/53866343/node-js-error-assertionerror-err-assertion-pattern-should-not-use-global-or/56433901
+        https://www.geeksforgeeks.org/reverse-a-doubly-linked-list/
+        https://www.youtube.com/watch?v=jDCEOqY_Uuw
+    </citations>
+
+    <!-- *********************************************************************************************************** -->
+
+    <!-- Configured by Project/CC author. DO NOT EDIT! -->
+    <type>Project</type>    <!-- Enter "Project" or "CC" without quotes -->
+    <number>1</number>      <!-- Enter Project/CC number as integer -->
+
+    <!-- *********************************************************************************************************** -->
+
+</readme>
